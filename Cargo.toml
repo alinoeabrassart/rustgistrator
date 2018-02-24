@@ -1,0 +1,9 @@
+[package]
+name = "rustgistrator"
+version = "0.1.0"
+authors = ["alinoeabrassart <alinoe.abrassart@free.fr>"]
+
+[dependencies]
+shiplift = "0.3.2"
+consul = "0.2.0"
+itertools = "0.7.6"
