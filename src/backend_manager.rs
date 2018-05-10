@@ -1,6 +1,6 @@
 extern crate itertools;
 
-#[derive(Debug)]
+#[derive(Debug, PartialEq)]
 pub struct ServiceDeclaration {
     pub id: String,
     pub name: String,
